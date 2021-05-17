@@ -11,3 +11,6 @@ venv
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Virtual environment files #
+projects/02_trivia_api/env/
