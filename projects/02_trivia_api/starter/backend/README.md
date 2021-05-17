@@ -88,7 +88,17 @@ GET '/categories'
 '6' : "Sports"}
 
 ```
+GET '/questions'
 
+DELETE '/questions/{question_id}'
+
+POST '/questions'
+
+POST '/questions/search'
+
+GET '/categories/{category_id}/questions'
+
+POST '/quizzes'
 
 ## Testing
 To run the tests, run
