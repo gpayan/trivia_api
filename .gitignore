@@ -14,4 +14,9 @@ Thumbs.db
 
 # Virtual environment files #
 projects/02_trivia_api/env/
+
+# Node modules #
 projects/02_trivia_api/starter/frontend/node_modules/
+
+# .env file #
+projects/02_trivia_api/starter/.env
